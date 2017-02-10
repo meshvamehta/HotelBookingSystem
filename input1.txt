@@ -1,0 +1,16 @@
+Hotel Paradise 101 1
+Hotel Paradise 102 2
+Hotel Paradise 103 3
+Hotel Paradise 104 2
+Hotel Paradise 105 2
+Hotel Paradise 106 1
+Hotel Paradise 107 2
+Booking 1 Mar 2 2 single 2 double 1
+Booking 2 Nov 26 4 double 1
+Hotel Moon 115 1
+Hotel Moon 116 2
+Booking 3 Nov 28 1 triple 1
+Change 1 Mar 27 3 double 3
+Booking 5 Jan 26 1 single 1
+Cancel 1
+Print Paradise
